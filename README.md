@@ -1,1 +1,1 @@
-# Diabetes-Classification-using-Python-
+# Diabetes-Classification-using-Python
